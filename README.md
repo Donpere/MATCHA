@@ -2,7 +2,7 @@
 
 MATCHA est l'un des projets fullstack de Dev Web de l'Ecole 42. Il s'agit de monter un site internet a la maniere de Tinder, avec l'enregistrement de users, l'utilisation de like, d'un chat et autres fonctionnalites.
 
-Dans la mesure ou il me sert a reunir des infos pour moi, je le mets a jour regulierement.
+Dans la mesure ou ce dossier me sert a reunir des infos, je le mets a jour regulierement.
 
 ## ENJOY PLAYING WITH THOSE WEB TOOLS
 
